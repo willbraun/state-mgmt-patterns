@@ -9,7 +9,7 @@ This project is a supplement to my blog post - TBD, where I compare four state m
 
 I created identical functional examples for each pattern, showcasing the differences in the code.
 
-Link to project (here)[state-management.willbraun.dev].
+Link to project [here](state-management.willbraun.dev).
 
 ## Technologies Used
 
