@@ -1,6 +1,6 @@
 # Overview
 
-This project is a supplement to my blog post - TBD, where I compare four state management patterns.
+This project is a supplement to my [blog post](blog.willbraun.dev/demystifying-state-management), where I compare four state management patterns.
 
 1. Prop Drilling
 2. Context API
